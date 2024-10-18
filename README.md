@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Senior Software Engineer with over 10 years of experience in the industry.<br>I have a passion for software development and have worked with a variety of technologies and languages.<br>I am always looking to learn new things and improve my skills.<br>I am currently working as a Senior Software Engineer in the 'Tech For Good' space.<br>I am dedicated, hardworking, and always looking ready to help out where I can.
+I am a Senior Software Engineer with over 10 years of experience in the industry.<br>I have a passion for software development and have worked with a variety of technologies and languages.<br>I am always looking to learn new things and improve my skills.<br>I am currently working as a Senior Software Engineer in the 'Tech For Good' space.<br>I am dedicated, hardworking, and always ready to help out where I can.
 
 
 ## 🌐 Socials:
